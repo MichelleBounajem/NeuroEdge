@@ -10,18 +10,17 @@ Welcome to the Neurosurgery Residency Hub, your premier online resource for aspi
      
 
     </style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 1</title>
 </head>
 <body>
-    <header>
-        <h1>Website Menu</h1>
-    </header>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">About Us</a>
-        <a href="#">Services</a>
-        <a href="#">Menu</a>
-        <a href="#">Contact</a>
-    </nav>
-    <!-- Rest of the content goes here -->
+    <h1>Welcome to Page 1</h1>
+    <p>This is the first page of your website.</p>
+    <a href="page2.html">Go to Page 2</a>
 </body>
 </html>
