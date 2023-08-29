@@ -74,7 +74,7 @@ Remember that a well-chosen and well-implemented background can significantly en
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Navigation Website</title>
+    <title>Residency</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -120,7 +120,7 @@ Remember that a well-chosen and well-implemented background can significantly en
 <body>
     <header>
         <h1>Residency</h1>
-        <p>Welcome to our easy-to-navigate website.</p>
+        <p>Residency.</p>
     </header>
     <nav>
         <a href="#">Home</a>
