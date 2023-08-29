@@ -9,10 +9,6 @@ Welcome to the Neurosurgery Residency Hub, your premier online resource for aspi
   
      
 
-    </style>
-
-</head>
-<body>
     <header>
         <h1>Neurosurgery Hub</h1>
         <p>Exploring the Wonders of Neurosurgery</p>
@@ -44,10 +40,3 @@ Welcome to the Neurosurgery Residency Hub, your premier online resource for aspi
 </body>
 </html>
 
-body {
-    background-image: url('science-background.jpg');
-    background-size: cover;
-    background-position: center;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
