@@ -24,3 +24,17 @@ Welcome to the Neurosurgery Residency Hub, your premier online resource for aspi
     <a href="page2.html">Go to Page 2</a>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 2</title>
+</head>
+<body>
+    <h1>Welcome to Page 2</h1>
+    <p>This is the second page you've navigated to.</p>
+    <a href="index.html">Go back to Page 1</a>
+</body>
+</html>
