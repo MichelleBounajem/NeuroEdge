@@ -59,7 +59,7 @@ Welcome to the Neurosurgery Residency Hub, your premier online resource for aspi
         <!-- Your content goes here -->
     </main>
     <footer>
-        <p>&copy; 2023 Science Wonderland. All rights reserved.</p>
+        <p>&copy; 2023 NeuroEdge. All rights reserved.</p>
     </footer>
 </body>
 </html>
@@ -68,13 +68,7 @@ Remember that a well-chosen and well-implemented background can significantly en
 
 
 
-User
-create a website that is easy to navigate using html
-ChatGPT
-Certainly! I'll provide you with a simple and easy-to-navigate website structure using HTML. This example includes a navigation bar, a main content area, and a footer.
 
-html
-Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,7 +119,7 @@ Copy code
 </head>
 <body>
     <header>
-        <h1>Simple Navigation Website</h1>
+        <h1>Residency</h1>
         <p>Welcome to our easy-to-navigate website.</p>
     </header>
     <nav>
