@@ -30,10 +30,6 @@ Welcome to the Neurosurgery Residency Hub, your premier online resource for aspi
 </head>
 <body>
     <header>
-        <h1>Welcome to My Basic Webpage</h1>
-    </header>
-    <div class="container">
-        <p>This is a simple webpage created for demonstration purposes.</p>
-    </div>
+     
 </body>
 </html>
